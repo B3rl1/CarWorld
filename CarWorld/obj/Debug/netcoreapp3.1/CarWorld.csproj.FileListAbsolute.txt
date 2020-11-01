@@ -1,0 +1,13 @@
+W:\VisualStudioProjects\CarWorld\CarWorld\bin\Debug\netcoreapp3.1\CarWorld.exe
+W:\VisualStudioProjects\CarWorld\CarWorld\bin\Debug\netcoreapp3.1\CarWorld.deps.json
+W:\VisualStudioProjects\CarWorld\CarWorld\bin\Debug\netcoreapp3.1\CarWorld.runtimeconfig.json
+W:\VisualStudioProjects\CarWorld\CarWorld\bin\Debug\netcoreapp3.1\CarWorld.runtimeconfig.dev.json
+W:\VisualStudioProjects\CarWorld\CarWorld\bin\Debug\netcoreapp3.1\CarWorld.dll
+W:\VisualStudioProjects\CarWorld\CarWorld\bin\Debug\netcoreapp3.1\CarWorld.pdb
+W:\VisualStudioProjects\CarWorld\CarWorld\obj\Debug\netcoreapp3.1\CarWorld.csprojAssemblyReference.cache
+W:\VisualStudioProjects\CarWorld\CarWorld\obj\Debug\netcoreapp3.1\CarWorld.AssemblyInfoInputs.cache
+W:\VisualStudioProjects\CarWorld\CarWorld\obj\Debug\netcoreapp3.1\CarWorld.AssemblyInfo.cs
+W:\VisualStudioProjects\CarWorld\CarWorld\obj\Debug\netcoreapp3.1\CarWorld.csproj.CoreCompileInputs.cache
+W:\VisualStudioProjects\CarWorld\CarWorld\obj\Debug\netcoreapp3.1\CarWorld.dll
+W:\VisualStudioProjects\CarWorld\CarWorld\obj\Debug\netcoreapp3.1\CarWorld.pdb
+W:\VisualStudioProjects\CarWorld\CarWorld\obj\Debug\netcoreapp3.1\CarWorld.genruntimeconfig.cache
