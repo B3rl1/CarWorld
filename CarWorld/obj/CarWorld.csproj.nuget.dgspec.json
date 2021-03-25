@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "W:\\VisualStudioProjects\\CarWorld\\CarWorld\\CarWorld.csproj": {}
+    "W:\\GITHUB\\CarWorld\\CarWorld\\CarWorld.csproj": {}
   },
   "projects": {
-    "W:\\VisualStudioProjects\\CarWorld\\CarWorld\\CarWorld.csproj": {
+    "W:\\GITHUB\\CarWorld\\CarWorld\\CarWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\VisualStudioProjects\\CarWorld\\CarWorld\\CarWorld.csproj",
+        "projectUniqueName": "W:\\GITHUB\\CarWorld\\CarWorld\\CarWorld.csproj",
         "projectName": "CarWorld",
-        "projectPath": "W:\\VisualStudioProjects\\CarWorld\\CarWorld\\CarWorld.csproj",
+        "projectPath": "W:\\GITHUB\\CarWorld\\CarWorld\\CarWorld.csproj",
         "packagesPath": "C:\\Users\\kiril\\.nuget\\packages\\",
-        "outputPath": "W:\\VisualStudioProjects\\CarWorld\\CarWorld\\obj\\",
+        "outputPath": "W:\\GITHUB\\CarWorld\\CarWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kiril\\AppData\\Roaming\\NuGet\\NuGet.Config",

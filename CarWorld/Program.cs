@@ -13,8 +13,10 @@ namespace CarWorld
 
 			carFactory.CarCreatedEvent += Company.CarCreated;
 
+
 			Car car1 = carFactory.CreateCar(ford, eng1, "F-150", 2020, 6);
 			Car car2 = carFactory.CreateCar(ford, eng1, "Focus", 2019, 4);
+			
 
 			foreach (var car in ford)
 			{
